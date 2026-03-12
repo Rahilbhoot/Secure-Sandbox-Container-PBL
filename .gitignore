@@ -1,0 +1,7 @@
+node_modules/
+.env
+backend/vm-compose-files/*.yml
+backend/database.sqlite
+dist/
+build/
+.DS_Store
